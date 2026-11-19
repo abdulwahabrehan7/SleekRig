@@ -1,20 +1,21 @@
-<<<<<<< HEAD
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
-
-## React Compiler
-
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-=======
 # SleekRig
->>>>>>> 896c6c55f7ac6605c11df1a14b1fb6e486126620
+
+A clean, responsive web application for planning and configuring custom PC builds. Users can select components across core hardware categories, review build choices, and view pricing across supported currencies (`USD`, `AED`, `INR`).
+
+## Features
+
+- **Component Selection:** Configure builds across CPUs, GPUs, motherboards, RAM, SSDs, power supplies (PSUs), CPU coolers, and PC cases/cabinets.
+- **Multi-Currency Support:** Switch pricing display between `USD`, `AED`, and `INR`.
+- **Responsive Interface:** Designed with a clean layout that adapts to desktop and mobile screens.
+
+## Built With
+
+- **HTML5**
+- **Tailwind CSS**
+- **JavaScript**
+
+## Getting Started
+
+1. Clone the repository:
+   ```bash
+   git clone [https://github.com/abdulwahabrehan7/SleekRig.git](https://github.com/abdulwahabrehan7/SleekRig.git)
