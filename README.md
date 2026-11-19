@@ -93,9 +93,3 @@ A clean, responsive web application for planning and configuring custom PC build
 GitHub: [@abdulwahabrehan7](https://www.google.com/search?q=https://github.com/abdulwahabrehan7)
 
 ```
-
----
-
-If you want to tailor the `README.md` further—such as adding a live demo link, screenshots, or specific logic your app already supports (like wattage calculation or build presets)—share those details and I will update it.
-
-```
