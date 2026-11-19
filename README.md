@@ -10,7 +10,8 @@ A clean, responsive web application for planning and configuring custom PC build
 
 ## Built With
 
-- **HTML5**
+- **ReactJS**
+- **HTML**
 - **Tailwind CSS**
 - **JavaScript**
 
